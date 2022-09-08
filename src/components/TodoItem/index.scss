@@ -1,0 +1,8 @@
+@import '../../App.scss';
+.todo-container {
+  height: 60px;
+}
+
+.todo-container:hover {
+  border-color: $primary;
+}
